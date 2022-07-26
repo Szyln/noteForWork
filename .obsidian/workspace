@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "近期任務.md",
-            "mode": "source",
+            "file": "crypto.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -23,7 +23,7 @@
           "type": "markdown",
           "state": {
             "file": "2022-7-26.md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": true
           }
@@ -143,15 +143,15 @@
   },
   "active": "6c00d9dc40887439",
   "lastOpenFiles": [
+    "crypto.md",
     "近期任務.md",
     "2022-7-26.md",
+    "UL Webinar：what you must know about PCI PTS POI v6.1.md",
     "對稱金鑰 Symmetric.md",
-    "crypto.md",
     "加密演算法.md",
     "雜湊 Hash.md",
     "編碼 Encoding.md",
     "保護持卡人資料.md",
-    "演算法 Algorithm.md",
-    "PAN (Primary Account Number).md"
+    "演算法 Algorithm.md"
   ]
 }
