@@ -9,7 +9,20 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "crypto.md",
+            "file": "近期任務.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "6c00d9dc40887439",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2022-7-26.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -73,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crypto.md",
+                "file": "2022-7-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crypto.md"
+                "file": "2022-7-26.md"
               }
             }
           }
@@ -128,17 +141,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "dd7d5d6889514c1f",
+  "active": "6c00d9dc40887439",
   "lastOpenFiles": [
+    "近期任務.md",
+    "2022-7-26.md",
     "對稱金鑰 Symmetric.md",
+    "crypto.md",
     "加密演算法.md",
     "雜湊 Hash.md",
     "編碼 Encoding.md",
-    "近期任務.md",
     "保護持卡人資料.md",
     "演算法 Algorithm.md",
-    "PAN (Primary Account Number).md",
-    "PA DSS (Payment Application Data Security Standard).md",
-    "ISMS 資訊安全管理制度.md"
+    "PAN (Primary Account Number).md"
   ]
 }
