@@ -9,9 +9,9 @@
 	- SHA、CRC、MD5、Hash
 
 ## AES、DES、TDES
-[對稱金鑰 Symmetric](對稱金鑰%20Symmetric.md)
+[對稱金鑰 Symmetric](演算法/對稱金鑰%20Symmetric.md)
 ## CBC、ECB
 ## RSA、ECC
-[非對稱金鑰 Asymmetric](非對稱金鑰%20Asymmetric.md)
+[非對稱金鑰 Asymmetric](演算法/非對稱金鑰%20Asymmetric.md)
 ## SHA、CRC、MD5、Hash
-[雜湊 Hash](雜湊%20Hash.md)
+[雜湊 Hash](演算法/雜湊%20Hash.md)

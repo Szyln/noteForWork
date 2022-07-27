@@ -8,5 +8,5 @@
 
 ### 其他標準
 - 非接觸式卡片的其他標準標準：[ISO/IEC 14443](https://zh.wikipedia.org/wiki/ISO/IEC_14443)
-- 接觸式卡片標準以[IEC 7816](ISO/IEC%207816.md)為標準
+- 接觸式卡片標準以[IEC 7816](認證/ISO/IEC%207816.md)為標準
 - 還有更早期的 MagneticStripe 磁條式（真的要刷的那種）

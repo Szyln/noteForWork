@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "dd7d5d6889514c1f",
+        "id": "6c00d9dc40887439",
         "type": "leaf",
+        "dimension": 38.62595419847328,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "crypto.md",
+            "file": "加密方案 Encryption Schemes.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -17,13 +18,14 @@
         }
       },
       {
-        "id": "6c00d9dc40887439",
+        "id": "2602c5b586a64521",
         "type": "leaf",
+        "dimension": 61.37404580152672,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-7-26.md",
-            "mode": "source",
+            "file": "2022-07-27.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -54,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ISO",
+                "query": "SHA3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -63,11 +65,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 165
+    "width": 389,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -84,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crypto.md",
+                "file": "加密方案 Encryption Schemes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crypto.md"
+                "file": "加密方案 Encryption Schemes.md"
               }
             }
           }
@@ -139,17 +143,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "148019a3838de914",
+  "active": "6c00d9dc40887439",
   "lastOpenFiles": [
-    "2022-7-26.md",
-    "crypto.md",
-    "近期任務.md",
-    "UL Webinar：what you must know about PCI PTS POI v6.1.md",
-    "對稱金鑰 Symmetric.md",
-    "加密演算法.md",
-    "雜湊 Hash.md",
-    "編碼 Encoding.md",
-    "保護持卡人資料.md",
-    "演算法 Algorithm.md"
+    "2022-07-27.md",
+    "加密方案 Encryption Schemes.md",
+    "消息認證（MAC）算法.md",
+    "演算法/加密演算法.md",
+    "Cryptographic Hash Functions.md",
+    "SHA3.md",
+    "SHA2.md",
+    "分組密碼工作模式 Block Cipher Modes of Operation.md",
+    "數位信封 Digital Envelop.md",
+    "演算法/對稱金鑰 Symmetric.md"
   ]
 }

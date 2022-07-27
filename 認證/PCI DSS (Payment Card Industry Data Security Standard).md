@@ -1,6 +1,6 @@
 # PCI DSS(Payment Card Industry Data Security Standard)
->- [PCI (Payment Card Industry)](PCI%20(Payment%20Card%20Industry).md)
->- [DSS](DSS.md)
+>- [PCI (Payment Card Industry)](認證/PCI%20(Payment%20Card%20Industry).md)
+>- [DSS](認證/DSS.md)
 
 
 >- [想製作線上支付服務？但等等，你了解支付規範龍頭PCI-DSS嗎?](https://progressbar.tw/posts/126)
@@ -11,7 +11,7 @@
 - 為保護支付卡片資料
 - 支付卡產業資料安全標準
 
-> 支付程式開發商要遵守：支付程式資料安全標準：[PA DSS (Payment Application Data Security Standard)](PA%20DSS%20(Payment%20Application%20Data%20Security%20Standard).md)
+> 支付程式開發商要遵守：支付程式資料安全標準：[PA DSS (Payment Application Data Security Standard)](認證/PA%20DSS%20(Payment%20Application%20Data%20Security%20Standard).md)
 
 ### PCI-DSS 的目的
 - 構建並維護安全的交易系統及網路(Build and Maintain a Secure Network and Systems)

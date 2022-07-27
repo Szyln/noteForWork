@@ -179,5 +179,9 @@
   "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "其他/附件",
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "spellcheckLanguages": [
+    "zh-TW",
+    "en-US"
+  ]
 }
