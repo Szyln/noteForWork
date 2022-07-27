@@ -63,13 +63,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 165,
-    "collapsed": true
+    "width": 165
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-7-26.md",
+                "file": "crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022-7-26.md"
+                "file": "crypto.md"
               }
             }
           }
@@ -141,11 +139,11 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "6c00d9dc40887439",
+  "active": "148019a3838de914",
   "lastOpenFiles": [
+    "2022-7-26.md",
     "crypto.md",
     "近期任務.md",
-    "2022-7-26.md",
     "UL Webinar：what you must know about PCI PTS POI v6.1.md",
     "對稱金鑰 Symmetric.md",
     "加密演算法.md",
