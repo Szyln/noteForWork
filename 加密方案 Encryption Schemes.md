@@ -11,13 +11,14 @@
 - 使 [Block Cipher](Block%20Cipher.md) 加密任意大小數據
 	- [分組密碼工作模式 Block Cipher Modes of Operation](分組密碼工作模式%20Block%20Cipher%20Modes%20of%20Operation.md)
 		- [CBC (Cipher Block Chaining Mode)](CBC%20(Cipher%20Block%20Chaining%20Mode).md)
+		- [ECB (Electronic Code Book Mode)](ECB%20(Electronic%20Code%20Book%20Mode).md)
 		- CTR
 	- 消息填充算法（如 PKCS7）
-- 用於驗證消息的真實性、完整性、不可否認性：[消息認證（MAC）算法](消息認證（MAC）算法.md)
+- 驗證消息的真實性、完整性、不可否認性：[消息認證（MAC）算法](消息認證（MAC）算法.md)
 
 ECIES-secp256k1-AES-128-GCM
 
-## 對稱加密方案 Symmetric Encryption Schemes 
+## Symmetric Encryption Schemes 
 - AES-256-CTR-HMAC-SHA-256：使用 AES-256 與 Counter 分組模式進行加密，使用 HMAC-SHA256 進行消息認證的加密方案。
 - ChaCha20-Poly1305：是一個流密碼加密方案
 - AES-128-GCM

@@ -6,12 +6,12 @@
       {
         "id": "6c00d9dc40887439",
         "type": "leaf",
-        "dimension": 38.62595419847328,
+        "dimension": 59.083969465648856,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "加密方案 Encryption Schemes.md",
-            "mode": "preview",
+            "file": "分組密碼工作模式 Block Cipher Modes of Operation.md",
+            "mode": "source",
             "backlinks": true,
             "source": true
           }
@@ -20,7 +20,7 @@
       {
         "id": "2602c5b586a64521",
         "type": "leaf",
-        "dimension": 61.37404580152672,
+        "dimension": 40.916030534351144,
         "state": {
           "type": "markdown",
           "state": {
@@ -143,17 +143,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "2602c5b586a64521",
+  "active": "6c00d9dc40887439",
   "lastOpenFiles": [
-    "2022-07-27.md",
     "加密方案 Encryption Schemes.md",
-    "消息認證（MAC）算法.md",
     "演算法/加密演算法.md",
+    "金鑰管理.md",
+    "分組密碼工作模式 Block Cipher Modes of Operation.md",
+    "Salting.md",
+    "2022-07-27.md",
+    "消息認證（MAC）算法.md",
     "Cryptographic Hash Functions.md",
     "SHA3.md",
-    "SHA2.md",
-    "分組密碼工作模式 Block Cipher Modes of Operation.md",
-    "數位信封 Digital Envelop.md",
-    "演算法/對稱金鑰 Symmetric.md"
+    "SHA2.md"
   ]
 }
