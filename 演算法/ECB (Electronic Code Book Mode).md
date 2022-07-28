@@ -8,6 +8,7 @@
 
 ![](https://i.imgur.com/YVlx6qj.png)
 
+> 圖片來源： [Day 21. 加密演算法要注意的那些毛 (一) - 加密模式](https://ithelp.ithome.com.tw/articles/10249953)
 
 ## 優點
 簡單、容易實作

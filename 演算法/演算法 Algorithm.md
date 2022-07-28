@@ -3,13 +3,14 @@ link: https://www.notion.so/Algorithm-ac48a4ab7943485ca81ca8ce99d5e013
 notionID: ac48a4ab-7943-485c-a81c-a8ce99d5e013
 ---
 # 演算法 Algorithm
-> - [【演算法】入門介紹－什麼是演算法 What's Algorithm?](https://jason-chen-1992.weebly.com/home/-whats-algorithm)
+> [【演算法】入門介紹－什麼是演算法 What's Algorithm?](https://jason-chen-1992.weebly.com/home/-whats-algorithm)
 
 >由有限步驟所構成的集合，可以用於解決某一個特定的問題。
 
 ![](https://jason-chen-1992.weebly.com/uploads/1/0/8/5/108557741/algorithm_2_orig.jpg)
+> 圖片來源：[【演算法】入門介紹－什麼是演算法 What's Algorithm?](https://jason-chen-1992.weebly.com/home/-whats-algorithm)
 
-- 就是，跟寫程式很像！
+- 寫程式很像
 - 演算法就是一種解決問題的邏輯思維
 - 具備計算能力硬體在的地方，我們就需要演算法
 - 「無所不能的電腦程式」碰上「無處不在的網際網路」就會變成時下非常夯的「物聯網 Internet of Things」

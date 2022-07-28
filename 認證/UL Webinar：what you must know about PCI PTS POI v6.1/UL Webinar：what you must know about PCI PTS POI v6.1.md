@@ -1,10 +1,6 @@
----
-link: https://www.notion.so/UL-Webinar-what-you-must-know-about-PCI-PTS-POI-v6-1-85ee1e2bdf7340028c5ed056380cb5ab
-notionID: 85ee1e2b-df73-4002-8c5e-d056380cb5ab
----
 # UL Webinar：what you must know about PCI PTS POI v6.1
-![](進度追蹤/近期任務.md#^ab4255)
-![](演算法/crypto.md#^e7ecf4)
+
+
 - UL Solutions: 協助通過認證的顧問機構
 - 6/25 開始實驗室不看 6.0 了
 

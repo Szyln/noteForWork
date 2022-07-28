@@ -1,7 +1,7 @@
 # 數字簽名算法與消息認證（MAC）算法
 - 為避免有人冒充發行者，從中取得資料的金鑰，使用這兩個功能可以確保可保證
-	- [可歸責性 Accountability](可歸責性%20Accountability.md)
-	- [完整性 Integrity](完整性%20Integrity.md)
+	- [可歸責性 Accountability](演算法/可歸責性%20Accountability.md)
+	- [完整性 Integrity](演算法/完整性%20Integrity.md)
 
 
 

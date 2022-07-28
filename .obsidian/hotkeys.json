@@ -204,5 +204,23 @@
       "key": "P"
     }
   ],
-  "editor:follow-link": []
+  "editor:follow-link": [],
+  "theme:use-dark": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ]
 }

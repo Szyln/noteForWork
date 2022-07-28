@@ -12,7 +12,7 @@
 
 
 ## 基本流程
-1.   初始化加密算法狀態（使用加密密鑰 + [初始向量 Initialization Vector(IV)](初始向量%20Initialization%20Vector(IV).md)）
+1.   初始化加密算法狀態（使用加密密鑰 + [初始向量 Initialization Vector(IV)](演算法/初始向量%20Initialization%20Vector(IV).md)）
 1.   加密數據的第一個分組
 1.   使用加密密鑰和其他參數轉換加密算法的當前狀態
 1.   加密下一個分組
@@ -23,7 +23,7 @@
 
 
 ## 是否需要填充
-部分分組模式會要求分組後使用 [填充 Padding](填充%20Padding.md) 將最後的分組填充到 block 的大小
+部分分組模式會要求分組後使用 [填充 Padding](演算法/填充%20Padding.md) 將最後的分組填充到 block 的大小
 - 會
 	- [CBC (Cipher Block Chaining Mode)](演算法/CBC%20(Cipher%20Block%20Chaining%20Mode).md)
 - 不會

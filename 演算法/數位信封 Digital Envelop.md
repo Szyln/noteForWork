@@ -1,7 +1,7 @@
 # 數位信封 Digital Envelop
 > [Day22 資料傳輸安全(機密性) RSA x AES 混搭風(上)](https://ithelp.ithome.com.tw/articles/10188528)
 
->[Asymmetric Encryption Schemes](Asymmetric%20Encryption%20Schemes.md)好像有點像？
+>[Asymmetric Encryption Schemes](演算法/Asymmetric%20Encryption%20Schemes.md)好像有點像？
 
 
 ## 混搭
@@ -10,8 +10,9 @@
 
 ## 步驟
 ![](http://ithelp.ithome.com.tw/upload/images/20170106/20103434cTJ19UZgTu.jpg)
-
 ![](http://ithelp.ithome.com.tw/upload/images/20170106/20103434tEe0Y1MwCN.jpg)
+
+>圖片來源：[Day22 資料傳輸安全(機密性) RSA x AES 混搭風(上)](https://ithelp.ithome.com.tw/articles/10188528)
 - [非對稱金鑰 Asymmetric](演算法/非對稱金鑰%20Asymmetric.md) 公開金鑰加密 Session Key 
 - Session Key 是 [對稱金鑰 Symmetric](演算法/對稱金鑰%20Symmetric.md) ，用來加解密會議內容
 

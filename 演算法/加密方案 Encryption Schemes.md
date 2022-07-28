@@ -1,13 +1,13 @@
 # 加密方案 Encryption Schemes
 
->- 對稱金鑰加密方案：[Symmetric Encryption Schemes](Symmetric%20Encryption%20Schemes.md)
->- 非對稱金鑰加密方案：[Asymmetric Encryption Schemes](Asymmetric%20Encryption%20Schemes.md)
+>- 對稱金鑰加密方案：[Symmetric Encryption Schemes](演算法/Symmetric%20Encryption%20Schemes.md)
+>- 非對稱金鑰加密方案：[Asymmetric Encryption Schemes](演算法/Asymmetric%20Encryption%20Schemes.md)
 
 
-單純使用[對稱金鑰 Symmetric](演算法/對稱金鑰%20Symmetric.md)、[非對稱金鑰 Asymmetric](演算法/非對稱金鑰%20Asymmetric.md)，只能顧及[機密性 Confidentiality](機密性%20Confidentiality.md)，混合多種加密演算法，同時兼顧
-- [機密性 Confidentiality](機密性%20Confidentiality.md)
-- [可歸責性 Accountability](可歸責性%20Accountability.md)
-- [完整性 Integrity](完整性%20Integrity.md)
+單純使用[對稱金鑰 Symmetric](演算法/對稱金鑰%20Symmetric.md)、[非對稱金鑰 Asymmetric](演算法/非對稱金鑰%20Asymmetric.md)，只能顧及[機密性 Confidentiality](演算法/機密性%20Confidentiality.md)，混合多種加密演算法，同時兼顧
+- [機密性 Confidentiality](演算法/機密性%20Confidentiality.md)
+- [可歸責性 Accountability](演算法/可歸責性%20Accountability.md)
+- [完整性 Integrity](演算法/完整性%20Integrity.md)
 
 
 ## 通常包含
@@ -18,8 +18,8 @@
 		- [CBC (Cipher Block Chaining Mode)](演算法/CBC%20(Cipher%20Block%20Chaining%20Mode).md)
 		- [ECB (Electronic Code Book Mode)](演算法/ECB%20(Electronic%20Code%20Book%20Mode).md)
 		- CTR
-	- [填充 Padding](填充%20Padding.md)
-- 驗證消息的[可歸責性 Accountability](可歸責性%20Accountability.md)、[完整性 Integrity](完整性%20Integrity.md)：[消息認證（MAC）算法](演算法/消息認證（MAC）算法.md)
+	- [填充 Padding](演算法/填充%20Padding.md)
+- 驗證消息的[可歸責性 Accountability](演算法/可歸責性%20Accountability.md)、[完整性 Integrity](演算法/完整性%20Integrity.md)：[消息認證（MAC）算法](演算法/消息認證（MAC）算法.md)
 
 
 

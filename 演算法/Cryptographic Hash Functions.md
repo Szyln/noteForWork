@@ -6,13 +6,13 @@
 
 - 抗[碰撞 collision](演算法/碰撞%20collision.md)（輸出越長越抗）
 - 不可逆
-- [理想的 Hash Functions](理想的%20Hash%20Functions.md)
+- [理想的 Hash Functions](演算法/理想的%20Hash%20Functions.md)
 
 
 
 ## 舉例
 - [不安全的 Hash 算法](演算法/不安全的%20Hash%20算法.md)
-	- [MD5](MD5.md)
+	- [MD5](演算法/MD5.md)
 	- SHA1
 - 高度安全
 	- [SHA2](演算法/SHA2.md)
