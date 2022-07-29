@@ -9,7 +9,7 @@
 ## 步驟
 > - [初始向量 Initialization Vector(IV)](演算法/初始向量%20Initialization%20Vector(IV).md) 只會跟第一組分組進行[異或 (⊕)](演算法/異或%20(⊕).md)
 
-![](Pasted%20image%2020220729112350.png)
+![](其他/附件/Pasted%20image%2020220729112350.png)
 > 圖片來源： [Day 21. 加密演算法要注意的那些毛 (一) - 加密模式](https://ithelp.ithome.com.tw/articles/10249953)
 
 - 第一個分組的明文在加密運算前先與 [初始向量 Initialization Vector(IV)](演算法/初始向量%20Initialization%20Vector(IV).md) 進行 [異或 (⊕)](演算法/異或%20(⊕).md) （會轉換成二進位資料）

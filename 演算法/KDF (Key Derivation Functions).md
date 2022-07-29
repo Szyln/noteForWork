@@ -10,7 +10,7 @@
 ## KDF 如何增強安全性（增強 [碰撞 collision](演算法/碰撞%20collision.md) 難度）
 - 密鑰拉伸 Key stretching
 	- [Salting](演算法/Salting.md) 
-	- 多次 [疊代](疊代.md)
+	- 多次 [疊代](計算機/疊代.md)
 
 
 

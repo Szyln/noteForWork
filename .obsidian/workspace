@@ -6,12 +6,12 @@
       {
         "id": "b65c14ae49b0d5c5",
         "type": "leaf",
-        "dimension": 52.994791666666664,
+        "dimension": 73.95833333333334,
         "state": {
           "type": "markdown",
           "state": {
             "file": "CTR (Counter Mode).md",
-            "mode": "preview",
+            "mode": "source",
             "backlinks": true,
             "source": true
           }
@@ -20,12 +20,12 @@
       {
         "id": "a271c1405ada3537",
         "type": "leaf",
-        "dimension": 47.00520833333333,
+        "dimension": 26.041666666666668,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "每日進度/2022-07-28.md",
-            "mode": "source",
+            "file": "每日進度/2022-07-29.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 157,
+    "width": 411,
     "collapsed": true
   },
   "right": {
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日進度/2022-07-28.md",
+                "file": "CTR (Counter Mode).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日進度/2022-07-28.md"
+                "file": "CTR (Counter Mode).md"
               }
             }
           }
@@ -142,17 +142,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "a271c1405ada3537",
+  "active": "b65c14ae49b0d5c5",
   "lastOpenFiles": [
-    "2022-07-29.md",
+    "計算機/位元 bit.md",
+    "每日進度/2022-07-29.md",
+    "其他/附件/Pasted image 20220729112350.png",
+    "其他/附件/Pasted image 20220728172138.png",
+    "概念 Concept.md",
+    "演算法/crypto.md",
+    "演算法/演算法 Algorithm.md",
     "CTR (Counter Mode).md",
-    "演算法/分組密碼工作模式 Block Cipher Modes of Operation.md",
-    "演算法/ECB (Electronic Code Book Mode).md",
-    "演算法/CBC (Cipher Block Chaining Mode).md",
-    "演算法/SHA2.md",
-    "演算法/異或 (⊕).md",
-    "演算法/DES.md",
-    "混淆與擴散.md",
-    "混淆.md"
+    "每日進度/2022-07-28.md",
+    "演算法/分組密碼工作模式 Block Cipher Modes of Operation.md"
   ]
 }
