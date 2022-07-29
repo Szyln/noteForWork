@@ -84,15 +84,6 @@
       "key": "ArrowUp"
     }
   ],
-  "editor:open-search-replace": [
-    {
-      "modifiers": [
-        "Ctrl",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
   "editor:toggle-checklist-status": [
     {
       "modifiers": [
@@ -221,6 +212,39 @@
         "Shift"
       ],
       "key": "["
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
     }
   ]
 }
