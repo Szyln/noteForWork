@@ -6,52 +6,15 @@
       {
         "id": "07a476308d866fdc",
         "type": "leaf",
-        "dimension": 74.293059125964,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git Flow.md",
+            "file": "演算法/密碼學.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
           }
         }
-      },
-      {
-        "id": "43797f054052a982",
-        "type": "split",
-        "dimension": 25.70694087403599,
-        "children": [
-          {
-            "id": "d20f6ea2c4e63ab1",
-            "type": "leaf",
-            "dimension": 67.52136752136752,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日進度/2022-07-29.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f83bb7829cbc89b4",
-            "type": "leaf",
-            "dimension": 32.47863247863248,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日進度/待讀.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -109,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Flow.md",
+                "file": "演算法/密碼學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Flow.md"
+                "file": "演算法/密碼學.md"
               }
             }
           }
@@ -166,15 +129,15 @@
   },
   "active": "07a476308d866fdc",
   "lastOpenFiles": [
+    "每日進度/待讀.md",
+    "演算法/密碼學.md",
+    "每日進度/2022-07-29.md",
     "Feature Branch.md",
     "Git Flow.md",
     "Develop Branch.md",
     "Master Branch.md",
-    "每日進度/待讀.md",
-    "每日進度/2022-07-29.md",
     "其他/template/template.md",
     "IoT 新創產品開發的六個階段.md",
-    "演算法/分組密碼工作模式 Block Cipher Modes of Operation.md",
-    "量產 MP.md"
+    "演算法/分組密碼工作模式 Block Cipher Modes of Operation.md"
   ]
 }
