@@ -6,7 +6,7 @@
 - 現今很少單獨使用：[加密方案 Encryption Schemes](演算法/加密方案%20Encryption%20Schemes.md)
 - 可用於[消息認證（MAC）算法](演算法/消息認證（MAC）算法.md)
 ##  舉例
-- [DES (DEA, Data Encryption Algorithm)](演算法/DES%20(DEA,%20Data%20Encryption%20Algorithm).md)
+- [DES](演算法/DES.md)
 	- [TDEA](演算法/TDEA.md)
 	- [2TDEA](演算法/2TDEA.md)
 - [AES](演算法/AES.md)(AES-128、AES-192、AES-256)

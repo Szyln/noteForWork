@@ -6,7 +6,7 @@
 
 ## 混搭
 - [非對稱金鑰 Asymmetric](演算法/非對稱金鑰%20Asymmetric.md)：[RSA](演算法/RSA.md)
-- [對稱金鑰 Symmetric](演算法/對稱金鑰%20Symmetric.md)：[AES](演算法/AES.md) （也有搭配 [DES (DEA, Data Encryption Algorithm)](演算法/DES%20(DEA,%20Data%20Encryption%20Algorithm).md), [2TDEA](演算法/2TDEA.md), 3DES 等）
+- [對稱金鑰 Symmetric](演算法/對稱金鑰%20Symmetric.md)：[AES](演算法/AES.md) （也有搭配 [DES](演算法/DES.md), [2TDEA](演算法/2TDEA.md), 3DES 等）
 
 ## 步驟
 ![](http://ithelp.ithome.com.tw/upload/images/20170106/20103434cTJ19UZgTu.jpg)

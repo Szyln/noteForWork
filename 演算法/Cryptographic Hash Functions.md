@@ -4,10 +4,12 @@
 >[雜湊 Hash](演算法/雜湊%20Hash.md)
 
 
-- 抗[碰撞 collision](演算法/碰撞%20collision.md)（輸出越長越抗）
-- 不可逆
 - [理想的 Hash Functions](演算法/理想的%20Hash%20Functions.md)
 
+
+![](理想的%20Hash%20Functions#^776d05)
+
+> 抗[碰撞 collision](演算法/碰撞%20collision.md)：輸出越長越抗
 
 
 ## 舉例
@@ -29,9 +31,11 @@
 - [數據完整性校驗](演算法/數據完整性校驗.md)
 	- [CRC](演算法/CRC.md)
 - [安全的保存密碼](演算法/安全的保存密碼.md)
+	- [KDF (Key Derivation Functions)](演算法/KDF%20(Key%20Derivation%20Functions).md)
 - 生成唯一 ID（數字指紋）
 - 偽隨機數生成：哈希值可以被當作一個隨機數看待
-- [KDF (Key Derivation Functions)](演算法/KDF%20(Key%20Derivation%20Functions).md)
+- [消息認證（MAC）算法](演算法/消息認證（MAC）算法.md)
+
 
 
 

@@ -6,11 +6,11 @@
       {
         "id": "b65c14ae49b0d5c5",
         "type": "leaf",
-        "dimension": 78.30802603036877,
+        "dimension": 84.375,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "演算法/加密演算法.md",
+            "file": "演算法/CBC (Cipher Block Chaining Mode).md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -20,12 +20,12 @@
       {
         "id": "a271c1405ada3537",
         "type": "leaf",
-        "dimension": 21.69197396963124,
+        "dimension": 15.625,
         "state": {
           "type": "markdown",
           "state": {
             "file": "2022-07-29.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GCM",
+                "query": "混淆",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演算法/加密演算法.md",
+                "file": "演算法/CBC (Cipher Block Chaining Mode).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "演算法/加密演算法.md"
+                "file": "演算法/CBC (Cipher Block Chaining Mode).md"
               }
             }
           }
@@ -145,15 +145,15 @@
   },
   "active": "b65c14ae49b0d5c5",
   "lastOpenFiles": [
-    "演算法/MD5.md",
-    "位元 bit.md",
-    "演算法/數位簽章.md",
-    "資料儲存資料單位.md",
-    "演算法/加密演算法.md",
-    "混淆與擴散.md",
-    "2022-07-29.md",
     "演算法/ECB (Electronic Code Book Mode).md",
-    "演算法/Block Cipher.md",
-    "演算法/Stream Cipher.md"
+    "演算法/DES.md",
+    "混淆與擴散.md",
+    "混淆.md",
+    "演算法/密碼學.md",
+    "演算法/雜湊 Hash.md",
+    "演算法/Cryptographic Hash Functions.md",
+    "演算法/SHA2.md",
+    "演算法/安全的保存密碼.md",
+    "演算法/理想的 Hash Functions.md"
   ]
 }
