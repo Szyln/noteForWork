@@ -27,25 +27,22 @@
 - 會
 	- [CBC (Cipher Block Chaining Mode)](演算法/CBC%20(Cipher%20Block%20Chaining%20Mode).md)
 - 不會
-	- CTR、CFB、OFB、CCM、EAX 和 GCM（因為在每個步驟中，都直接在明文部分和內部密碼狀態之間執行異或（XOR）運算）
+	- [CTR (Counter Mode)](CTR%20(Counter%20Mode).md)、CFB、OFB、CCM、EAX 和 GCM（因為在每個步驟中，都直接在明文部分和內部密碼狀態之間執行異或（XOR）運算）
 
 
 ## 歷史
 
-早在 1981 年，DES 演算法公佈之後，NIST 在標準文獻 FIPS 81 中公佈了 4 種
-- [ECB (Electronic Code Book Mode)](演算法/ECB%20(Electronic%20Code%20Book%20Mode).md)
-- [CBC (Cipher Block Chaining Mode)](演算法/CBC%20(Cipher%20Block%20Chaining%20Mode).md)
--  密文反饋：Cipher Feedback Mode (CFB)
--  輸出反饋：Output Feedback Mode (OFB)
-
-[AES](演算法/AES.md) 公布後
-- 計數器模式：[CTR (Counter Mode)](CTR%20(Counter%20Mode).md)
+- 早在 1981 年，DES 演算法公佈之後，NIST 在標準文獻 FIPS 81 中公佈了 4 種
+	- [ECB (Electronic Code Book Mode)](演算法/ECB%20(Electronic%20Code%20Book%20Mode).md)
+	- [CBC (Cipher Block Chaining Mode)](演算法/CBC%20(Cipher%20Block%20Chaining%20Mode).md)
+	-  密文反饋：Cipher Feedback Mode (CFB)
+	-  輸出反饋：Output Feedback Mode (OFB)
+- [AES](演算法/AES.md) 公布後
+	- 計數器模式：[CTR (Counter Mode)](CTR%20(Counter%20Mode).md)
 
 ## 其他分組密碼工作模式
-- GCM：伽羅瓦計數器模式 Galois/Counter Mode（CTR 的上位互換版本，推薦使用）
+- [GCM](GCM.md)：伽羅瓦計數器模式 Galois/Counter Mode
 - CCM：Counter with CBC-MAC
-
-
 
 
 ## 舉例
