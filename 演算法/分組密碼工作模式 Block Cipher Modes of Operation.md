@@ -45,8 +45,12 @@
 - CCM：Counter with CBC-MAC
 
 
+## 隨機訪問
+CBC、CTR 和 GCM 模式等大多數都支援「隨機訪問」解密。比如在加密的影片中，移動播放位置都可以直接從那段開始解密撥放
+
+
 ## 舉例
 
--   **AES-256-GCM** - the AES cipher with a 256-bit encryption key and GCM block mode
--   **AES-128-CTR** - the AES cipher with a 128-bit encryption key and CTR block mode
-- **Serpent-128-CBC** - the Serpent cipher with 128-bit encryption key and CBC block mode
+- AES-256-GCM
+- AES-128-CTR
+- Serpent-128-CBC

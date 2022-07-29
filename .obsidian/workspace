@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b65c14ae49b0d5c5",
+        "id": "07a476308d866fdc",
         "type": "leaf",
-        "dimension": 73.95833333333334,
+        "dimension": 74.293059125964,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "演算法/密碼學.md",
+            "file": "Feature Branch.md",
             "mode": "source",
             "backlinks": true,
             "source": true
@@ -18,18 +18,40 @@
         }
       },
       {
-        "id": "a271c1405ada3537",
-        "type": "leaf",
-        "dimension": 26.041666666666668,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "每日進度/2022-07-29.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": true
+        "id": "43797f054052a982",
+        "type": "split",
+        "dimension": 25.70694087403599,
+        "children": [
+          {
+            "id": "d20f6ea2c4e63ab1",
+            "type": "leaf",
+            "dimension": 67.52136752136752,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日進度/2022-07-29.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f83bb7829cbc89b4",
+            "type": "leaf",
+            "dimension": 32.47863247863248,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日進度/待讀.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -87,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演算法/密碼學.md",
+                "file": "Feature Branch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "演算法/密碼學.md"
+                "file": "Feature Branch.md"
               }
             }
           }
@@ -142,17 +164,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "b65c14ae49b0d5c5",
+  "active": "07a476308d866fdc",
   "lastOpenFiles": [
-    "演算法/分組密碼工作模式 Block Cipher Modes of Operation.md",
+    "Git Flow.md",
+    "Develop Branch.md",
+    "Master Branch.md",
+    "每日進度/待讀.md",
     "每日進度/2022-07-29.md",
-    "GCM.md",
-    "CTR (Counter Mode).md",
-    "演算法/CBC (Cipher Block Chaining Mode).md",
-    "演算法/可歸責性 Accountability.md",
-    "演算法/MD5.md",
-    "計算機/位元 bit.md",
-    "其他/附件/Pasted image 20220729112350.png",
-    "其他/附件/Pasted image 20220728172138.png"
+    "其他/template/template.md",
+    "IoT 新創產品開發的六個階段.md",
+    "演算法/分組密碼工作模式 Block Cipher Modes of Operation.md",
+    "量產 MP.md",
+    "量產驗證 PVT.md"
   ]
 }
