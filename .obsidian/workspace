@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Feature Branch.md",
-            "mode": "source",
+            "file": "Git Flow.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Feature Branch.md",
+                "file": "Git Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Feature Branch.md"
+                "file": "Git Flow.md"
               }
             }
           }
@@ -166,6 +166,7 @@
   },
   "active": "07a476308d866fdc",
   "lastOpenFiles": [
+    "Feature Branch.md",
     "Git Flow.md",
     "Develop Branch.md",
     "Master Branch.md",
@@ -174,7 +175,6 @@
     "其他/template/template.md",
     "IoT 新創產品開發的六個階段.md",
     "演算法/分組密碼工作模式 Block Cipher Modes of Operation.md",
-    "量產 MP.md",
-    "量產驗證 PVT.md"
+    "量產 MP.md"
   ]
 }
