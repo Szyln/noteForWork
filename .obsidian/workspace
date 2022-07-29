@@ -6,11 +6,11 @@
       {
         "id": "b65c14ae49b0d5c5",
         "type": "leaf",
-        "dimension": 84.375,
+        "dimension": 52.994791666666664,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "演算法/CBC (Cipher Block Chaining Mode).md",
+            "file": "CTR (Counter Mode).md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -20,12 +20,12 @@
       {
         "id": "a271c1405ada3537",
         "type": "leaf",
-        "dimension": 15.625,
+        "dimension": 47.00520833333333,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022-07-29.md",
-            "mode": "preview",
+            "file": "每日進度/2022-07-28.md",
+            "mode": "source",
             "backlinks": true,
             "source": true
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "混淆",
+                "query": "\"Day 21. 加密演算法要注意的那些毛 (一) - 加密模式\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "演算法/CBC (Cipher Block Chaining Mode).md",
+                "file": "每日進度/2022-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "演算法/CBC (Cipher Block Chaining Mode).md"
+                "file": "每日進度/2022-07-28.md"
               }
             }
           }
@@ -143,17 +142,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "b65c14ae49b0d5c5",
+  "active": "a271c1405ada3537",
   "lastOpenFiles": [
+    "2022-07-29.md",
+    "CTR (Counter Mode).md",
+    "演算法/分組密碼工作模式 Block Cipher Modes of Operation.md",
     "演算法/ECB (Electronic Code Book Mode).md",
+    "演算法/CBC (Cipher Block Chaining Mode).md",
+    "演算法/SHA2.md",
+    "演算法/異或 (⊕).md",
     "演算法/DES.md",
     "混淆與擴散.md",
-    "混淆.md",
-    "演算法/密碼學.md",
-    "演算法/雜湊 Hash.md",
-    "演算法/Cryptographic Hash Functions.md",
-    "演算法/SHA2.md",
-    "演算法/安全的保存密碼.md",
-    "演算法/理想的 Hash Functions.md"
+    "混淆.md"
   ]
 }

@@ -39,11 +39,12 @@
 -  輸出反饋：Output Feedback Mode (OFB)
 
 [AES](演算法/AES.md) 公布後
-- 計數器模式：Counter Mode (CTR)
+- 計數器模式：[CTR (Counter Mode)](CTR%20(Counter%20Mode).md)
 
 ## 其他分組密碼工作模式
 - GCM：伽羅瓦計數器模式 Galois/Counter Mode（CTR 的上位互換版本，推薦使用）
 - CCM：Counter with CBC-MAC
+
 
 
 
