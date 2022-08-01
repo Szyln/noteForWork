@@ -5,7 +5,7 @@
 
 
 ## 細部分支
-- [Feature Branch](Feature%20Branch.md)：完成後合併回 [Develop Branch](Develop%20Branch.md) 後刪除
+- [Feature Branch](Feature%20Branch.md)：完成後 [git merge](dontTrustYourLittleBrain/git%20merge.md) 回 [Develop Branch](Develop%20Branch.md) 後刪除
 
 
 ## 生成
