@@ -144,15 +144,15 @@
   },
   "active": "07a476308d866fdc",
   "lastOpenFiles": [
-    "每日進度/2022-07-29.md",
+    "SSL.md",
     "演算法/密碼學.md",
+    "演算法/完整性 Integrity.md",
+    "每日進度/2022-07-29.md",
     "演算法/CTR (Counter Mode).md",
     "製作流程/IoT 新創產品開發的六個階段.md",
     "演算法/分組密碼工作模式 Block Cipher Modes of Operation.md",
     "演算法/ECB (Electronic Code Book Mode).md",
     "演算法/TDEA.md",
-    "演算法/數位簽章.md",
-    "演算法/DES.md",
-    "演算法/2TDEA.md"
+    "演算法/數位簽章.md"
   ]
 }
