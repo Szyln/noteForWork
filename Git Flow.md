@@ -9,10 +9,10 @@
 
 
 ## 長期分支
-- [Master Branch](Master%20Branch.md)
-- [Develop Branch](Develop%20Branch.md)
-	- [Feature Branch](Feature%20Branch.md)
-- [Hotfix Branch](Hotfix%20Branch.md)
+- [master branch](master%20branch.md)
+- [develop branch](develop%20branch.md)
+	- [feature branch](feature%20branch.md)
+- [hotfix branch](hotfix%20branch.md)
 - [Release Branch](Release%20Branch.md)
 
 # 

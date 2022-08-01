@@ -1,21 +1,23 @@
-# Develop
+# develop branch
 
 - 開發的基礎分支
 - 下次發布的狀態
 
 
 ## 細部分支
-- [Feature Branch](Feature%20Branch.md)：完成後 [git merge](dontTrustYourLittleBrain/git%20merge.md) 回 [Develop Branch](Develop%20Branch.md) 後刪除
+- [feature branch](feature%20branch.md)：完成後 [git merge](dontTrustYourLittleBrain/git%20merge.md) 回 [develop branch](develop%20branch.md) 後刪除
 
 
 ## 生成
-從 [Master Branch](Master%20Branch.md) 生成
+從 [master branch](master%20branch.md) 生成
+
+[git checkout -b 建立並切換分支](git%20checkout%20-b%20建立並切換分支)
 ```shell
 $ git checkout -b develop master
 ```
 
 ## 發布時
-[Master Branch](Master%20Branch.md) 對 [Develop Branch](Develop%20Branch.md) 進行合併
+[master branch](master%20branch.md) 對 [develop branch](develop%20branch.md) 進行合併
 
 ```shell
 $ git checkout master # 切換到 master 分支
@@ -34,5 +36,4 @@ gitGraph
 	checkout main
 	merge develop
 	commit
-	
 ```
