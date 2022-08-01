@@ -22,3 +22,23 @@ gitGraph
 	merge develop
 	commit id: "Highlight" type: HIGHLIGHT tag: "v1.2.0"
 ```
+
+## 生命週期
+### 建立
+```shell
+$ git checkout -b feature-x develop
+```
+
+### 完成後合併回 [develop branch](develop%20branch.md)
+
+```shell
+$ git checkout develop # 切換到 develop 分支
+$ git merge --no-ff feature-x # 合併 feature-x 分支，使用非快轉模式合併
+```
+
+### 刪除
+```shell
+$ git branch -d feature-x # 刪除 feature-x 分支
+```
+
+
