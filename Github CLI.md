@@ -1,6 +1,8 @@
 #  Github CLI
 > 需安裝：[CLI](https://cli.github.com/)
 
+> [GitHub CLI：用指令就能開 issue、發 PR](https://ithelp.ithome.com.tw/articles/10240215)
+
 安裝完後，就可以用終端機執行看看了（WINDOWS 的 PowerShell 沒辦法，要用命令提示字元）
 
 ```shell

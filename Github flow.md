@@ -9,7 +9,7 @@
 - 該分支可以選擇刪除
 
 
-### 生命週期（？）
+### 生命週期
 -   創建分支 (Create a branch) (fork也可以)
 -   提交修改 (Add commits)
 -   開啟 PR (Open a Pull Request)：直接在 GH 網頁操作即可，或是 [Github CLI](Github%20CLI.md)（需額外安裝）
@@ -26,3 +26,4 @@
 ### 缺點
 
 預設情況為 master 為最新的提交版本，但這造成有時可能有指定時間發佈，或是尚須審核，則這時候只有一個 master 分支就會造成困擾，需新建一個 `production` 分支追蹤線上版本。
+
