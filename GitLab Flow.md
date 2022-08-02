@@ -3,13 +3,6 @@
 
 
 - [Merge Request](Merge%20Request.md)
-- [CI, CD](CI,%20CD.md)
-
-[GitLab Flow 的 CI, CD](GitLab%20Flow%20的%20CI,%20CD.md)
-
-![](其他/附件/Pasted%20image%2020220802155838.png)
-
-[GitLab Flow](GitLab%20Flow.md) 搭配 [release branch](release%20branch.md)
-
-會使用到
-
+- [GitLab Flow 的 CI, CD](GitLab%20Flow%20的%20CI,%20CD.md)
+	- [CI, CD](CI,%20CD.md)
+- [GitLab Flow with Release Branch](GitLab%20Flow%20with%20Release%20Branch.md)

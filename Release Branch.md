@@ -1,7 +1,7 @@
 # release branch
 - [develop branch](develop%20branch.md) 夠成熟後合併到這個分支
 - 像上線前的最後測試
-- 完成後合併到 [develop branch](develop%20branch.md), [master branch](master%20branch.md)
+- 完成後合併到 [develop branch](develop%20branch.md), [master(main) branch](master(main)%20branch.md)
 
 ```mermaid
 gitGraph
@@ -49,7 +49,7 @@ $ git checkout -b release-1.2 develop
 
 >`release-*` 的形式命名
 
-## 完成後合併回 [develop branch](develop%20branch.md) & [master branch](master%20branch.md)
+## 完成後合併回 [develop branch](develop%20branch.md) & [master(main) branch](master(main)%20branch.md)
 ```shell
 $ git checkout master # 切換到 master 分支
 $ git merge --no-ff release-1.2 # 合併 release-1.2 分支，使用非快轉模式合併

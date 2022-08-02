@@ -1,11 +1,11 @@
 # Github flow
 ### 常駐分支
-- [master branch](master%20branch.md)
+- [master(main) branch](master(main)%20branch.md)
 
 ### 短期分支 
-- 都從 [master branch](master%20branch.md) 分出來
-- 不論完成或需要討論時，都向 [master branch](master%20branch.md) 發出 [Pull Request (PR)](Pull%20Request%20(PR).md)
-- Pull Request 被接受後，就會合併到 [master branch](master%20branch.md)
+- 都從 [master(main) branch](master(main)%20branch.md) 分出來
+- 不論完成或需要討論時，都向 [master(main) branch](master(main)%20branch.md) 發出 [Pull Request (PR)](Pull%20Request%20(PR).md)
+- Pull Request 被接受後，就會合併到 [master(main) branch](master(main)%20branch.md)
 - 該分支可以選擇刪除
 
 

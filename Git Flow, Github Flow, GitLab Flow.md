@@ -9,5 +9,7 @@
 
 
 
-
-
+|類型|[Git flow](Git%20flow.md)|[Github flow](Github%20flow.md)|[GitLab Flow](GitLab%20Flow.md)|
+|:-:|:-:|:-:|:-:|
+|常駐分支|[master(main) branch](master(main)%20branch.md), [develop branch](develop%20branch.md)|[master(main) branch](master(main)%20branch.md)|[master(main) branch](master(main)%20branch.md)|
+|遇到 bug|從 [master(main) branch](master(main)%20branch.md) 分出來，完成後合併到兩常駐分支|從 [master(main) branch](master(main)%20branch.md) 分出來，完成後發[Pull Request (PR)](Pull%20Request%20(PR).md)，討論後合併進 [master(main) branch](master(main)%20branch.md)|從 [master(main) branch](master(main)%20branch.md) 分出來，完成後發[Merge Request](Merge%20Request.md)，討論後合併進 [master(main) branch](master(main)%20branch.md)|
