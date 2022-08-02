@@ -5,12 +5,11 @@
 - [Merge Request](Merge%20Request.md)
 - [CI, CD](CI,%20CD.md)
 
-## GitLab Flow 的 CI, CD
+[GitLab Flow 的 CI, CD](GitLab%20Flow%20的%20CI,%20CD.md)
 
-> [CI, CD](CI,%20CD.md)
+![](其他/附件/Pasted%20image%2020220802155838.png)
 
-[Git Flow, Github Flow, GitLab Flow](Git%20Flow,%20Github%20Flow,%20GitLab%20Flow.md) 其他的 flow 只會在 [master branch](master%20branch.md) 上做 [CI](CI.md)
+[GitLab Flow](GitLab%20Flow.md) 搭配 [release branch](release%20branch.md)
 
-- 因為 [GitLab Flow](GitLab%20Flow.md) 都是將 [Merge Request](Merge%20Request.md) 合併到 [master branch](master%20branch.md)
-- 以及 GitLab 內建 [CI, CD](CI,%20CD.md) 你的專案
+會使用到
 
