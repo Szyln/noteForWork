@@ -40,7 +40,7 @@ gitGraph
 ```
 
 ## 生命週期
->[git checkout -b 建立並切換分支](dontTrustYourLittleBrain/git%20checkout%20-b%20建立並切換分支.md)
+>[git checkout -b 建立並切換分支](../dontTrustYourLittleBrain/git%20checkout%20-b%20建立並切換分支.md)
 
 ### 從 [develop branch](Git%20Flow/develop%20branch.md) 分支出來
 ```shell

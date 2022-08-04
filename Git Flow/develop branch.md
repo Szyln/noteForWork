@@ -5,13 +5,13 @@
 
 
 ## 細部分支
-- [feature branch](feature%20branch.md)：完成後 [git merge](dontTrustYourLittleBrain/git%20merge.md) 回 [develop branch](develop%20branch.md) 後刪除
+- [feature branch](feature%20branch.md)：完成後 [git merge](../dontTrustYourLittleBrain/git%20merge.md) 回 [develop branch](develop%20branch.md) 後刪除
 
 
 ## 生成
 從 [master(main) branch](master(main)%20branch.md) 生成
 
-[git checkout -b 建立並切換分支](git%20checkout%20-b%20建立並切換分支)
+[git checkout -b 建立並切換分支](../dontTrustYourLittleBrain/git%20checkout%20-b%20建立並切換分支.md)
 ```shell
 $ git checkout -b develop master
 ```
