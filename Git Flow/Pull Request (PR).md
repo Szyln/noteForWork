@@ -9,4 +9,4 @@
 - 結束（確定）後開發者選擇是否刪除這個 PR 紀錄
 
 
-> 可安裝 [Github CLI](Git%20Flow/Github%20CLI.md) 透過指令完成
+> 可安裝 [Github CLI](./Github%20CLI.md) 透過指令完成
