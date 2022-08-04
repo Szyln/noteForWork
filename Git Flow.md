@@ -43,3 +43,11 @@ gitGraph
 	
 	
 ```
+
+
+- main: merge release
+	- dev
+
+- dev: ff feature(rebase first), merge release, 
+	- feature: rebase dev
+	- release: rebase main, 
