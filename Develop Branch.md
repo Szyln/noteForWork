@@ -9,7 +9,7 @@
 
 
 ## 生成
-從 [master(main) branch](master(main)%20branch.md) 生成
+從 [master(main) branch](Git%20Flow/master(main)%20branch.md) 生成
 
 [git checkout -b 建立並切換分支](git%20checkout%20-b%20建立並切換分支)
 ```shell
@@ -17,7 +17,7 @@ $ git checkout -b develop master
 ```
 
 ## 發布時
-[master(main) branch](master(main)%20branch.md) 對 [develop branch](develop%20branch.md) 進行合併
+[master(main) branch](Git%20Flow/master(main)%20branch.md) 對 [develop branch](develop%20branch.md) 進行合併
 
 ```shell
 $ git checkout master # 切換到 master 分支

@@ -1,6 +1,6 @@
 # hotfix branch
-- [master(main) branch](master(main)%20branch.md) 出現 BUG 的時候的緊急修復分支
-- 修復完畢後要 Merge 到 [develop branch](develop%20branch.md), [master(main) branch](master(main)%20branch.md)
+- [master(main) branch](Git%20Flow/master(main)%20branch.md) 出現 BUG 的時候的緊急修復分支
+- 修復完畢後要 Merge 到 [develop branch](develop%20branch.md), [master(main) branch](Git%20Flow/master(main)%20branch.md)
 
 ```mermaid
 gitGraph
@@ -38,7 +38,7 @@ $ git checkout -b fixbug-0.1 master
 >常用 `fixbug-*` 的形式命名
 
 
-### 完成後合併到 [master(main) branch](master(main)%20branch.md) 及 [develop branch](develop%20branch.md)
+### 完成後合併到 [master(main) branch](Git%20Flow/master(main)%20branch.md) 及 [develop branch](develop%20branch.md)
 
 ```shell
 $ git checkout master # 切換到 master 分支
