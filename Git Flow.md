@@ -17,7 +17,7 @@
 |[git merge](dontTrustYourLittleBrain/git%20merge.md)|[develop branch](develop%20branch.md)|兩常駐分支|兩常駐分支|
 |命名習慣|feature-<版號>|bugfix-<版號>|release-<版號>|
 
-## 實作
+%%## 實作
 ```mermaid  
 gitGraph
 	commit id: "plan the flow"
@@ -42,12 +42,4 @@ gitGraph
 	merge release-1.0
 	
 	
-```
-
-
-- main: merge release
-	- dev
-
-- dev: ff feature(rebase first), merge release, 
-	- feature: rebase dev
-	- release: rebase main, 
+```%%
