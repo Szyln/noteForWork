@@ -12,5 +12,6 @@
 |類型|[Git flow](Git%20flow.md)|[Github flow](Github%20flow.md)|[GitLab Flow](GitLab%20Flow.md)|
 |:-:|:-:|:-:|:-:|
 |常駐分支|[master(main) branch](master(main)%20branch.md), [develop branch](develop%20branch.md)|[master(main) branch](master(main)%20branch.md)|[master(main) branch](master(main)%20branch.md)|
-|遇到 bug|從 [master(main) branch](master(main)%20branch.md) 分出來，完成後合併到兩常駐分支|從 [master(main) branch](master(main)%20branch.md) 分出來，完成後發[Pull Request (PR)](Pull%20Request%20(PR).md)，討論後合併進 [master(main) branch](master(main)%20branch.md)|從 [master(main) branch](master(main)%20branch.md) 分出來，完成後發[Merge Request](Merge%20Request.md)，討論後合併進 [master(main) branch](master(main)%20branch.md)|
-|適用場合|可以應付各種場景|適合持續更新的產品|介於前兩者中間|
+|遇到 bug|- 從 [master(main) branch](master(main)%20branch.md) 分出來<br>- 完成後合併到兩常駐分支|- 從 [master(main) branch](master(main)%20branch.md) 分出來<br>- 發 [Pull Request (PR)](Pull%20Request%20(PR).md)<br>- 討論後合併進 [master(main) branch](master(main)%20branch.md)|- 從 [master(main) branch](master(main)%20branch.md) 分出來<br>- 發 [Merge Request](Merge%20Request.md)<br>- 討論後合併進 [master(main) branch](master(main)%20branch.md)<br>- 再往下游分支（release、environment）合併|
+|適用場合|版本發布|持續更新|持續更新或版本發布|
+|缺點|複雜，操作時間成本高|不適合版本發布|指令較難|
